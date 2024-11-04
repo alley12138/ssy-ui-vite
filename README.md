@@ -1,7 +1,7 @@
 <p align="center">
 <div style="width:150px;margin:auto;">
 <div align="center">
-  <img src="https://gitee.com/yuesehenmei/markdown/raw/master/aasets/xiaohonghua.png">
+  <img src="s61.png">
 </div>
 </div>
 </p>
